@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neve&display=swap');
+
+@font-face {
+    font-family: 'Bebas Neue', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Bebas+Neve&display=swap') format('truetype');
+}
